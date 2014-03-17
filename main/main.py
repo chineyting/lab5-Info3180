@@ -20,7 +20,7 @@ import admin
 import auth
 import task
 import user
-
+import contact
 
 if config.DEVELOPMENT:
   from werkzeug import debug
